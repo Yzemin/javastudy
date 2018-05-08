@@ -1,0 +1,5 @@
+HTTP/1.1 200 OK
+Server:ziv Server/0.0.1
+Date:Wed Apr 11 13:01:32 CST 2018
+Content-type:text/pain;charset=GBK
+Content-Lenght:3

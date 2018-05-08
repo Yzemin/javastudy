@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<students> 
+  <student id="o_101"> 
+    <name id="n01">八重齿</name>  
+    <age>18</age>  
+    <sex>男</sex> 
+  </student>  
+  <student id="o_102"> 
+    <name id="n02">下</name>  
+    <age>18</age>  
+    <sex>男</sex> 
+  </student>  
+  <student id="o_362">
+    <name>王五</name>
+    <age>30</age>
+  </student>
+</students>
